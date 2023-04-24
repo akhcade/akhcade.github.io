@@ -1,5 +1,5 @@
 # akhcade.github.io
-my website for hosting my programming things
+my website for hosting my programming things (no longer in use)
 
 literally just click the link
 
